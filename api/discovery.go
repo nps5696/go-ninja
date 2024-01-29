@@ -1,6 +1,6 @@
 package ninja
 
-import "github.com/ninjasphere/go-ninja/model"
+import "github.com/nps5696/go-ninja/model"
 
 type discoverService struct {
 	conn *Connection

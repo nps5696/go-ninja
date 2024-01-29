@@ -9,12 +9,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ninjasphere/go-ninja/bus"
-	"github.com/ninjasphere/go-ninja/config"
-	"github.com/ninjasphere/go-ninja/logger"
-	"github.com/ninjasphere/go-ninja/model"
-	"github.com/ninjasphere/go-ninja/rpc"
-	"github.com/ninjasphere/go-ninja/rpc/json2"
+	"github.com/nps5696/go-ninja/bus"
+	"github.com/nps5696/go-ninja/config"
+	"github.com/nps5696/go-ninja/logger"
+	"github.com/nps5696/go-ninja/model"
+	"github.com/nps5696/go-ninja/rpc"
+	"github.com/nps5696/go-ninja/rpc/json2"
 )
 
 var (

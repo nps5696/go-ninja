@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ninjasphere/go-ninja/bus"
+	"github.com/nps5696/go-ninja/bus"
 )
 
 type ServiceClient struct {

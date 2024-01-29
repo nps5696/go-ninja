@@ -8,7 +8,7 @@ import (
 	"path"
 
 	"github.com/juju/loggo"
-	"github.com/ninjasphere/go-ninja/config"
+	"github.com/nps5696/go-ninja/config"
 	"github.com/wolfeidau/bugsnag-go"
 	"github.com/wolfeidau/loggo-syslog"
 )

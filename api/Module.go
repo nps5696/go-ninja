@@ -1,7 +1,7 @@
 package ninja
 
 import (
-	"github.com/ninjasphere/go-ninja/model"
+	"github.com/nps5696/go-ninja/model"
 )
 
 //

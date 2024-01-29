@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/ninjasphere/go-ninja/api"
-	"github.com/ninjasphere/go-ninja/events"
-	"github.com/ninjasphere/go-ninja/support"
+	"github.com/nps5696/go-ninja/api"
+	"github.com/nps5696/go-ninja/events"
+	"github.com/nps5696/go-ninja/support"
 )
 
 var info = ninja.LoadModuleInfo("./package.json")

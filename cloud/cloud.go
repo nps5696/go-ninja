@@ -9,8 +9,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/ninjasphere/go-ninja/config"
-	"github.com/ninjasphere/go-ninja/logger"
+	"github.com/nps5696/go-ninja/config"
+	"github.com/nps5696/go-ninja/logger"
 )
 
 var log = logger.GetLogger("cloud")

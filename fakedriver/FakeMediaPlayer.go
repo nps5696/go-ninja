@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/ninjasphere/go-ninja/api"
-	"github.com/ninjasphere/go-ninja/channels"
-	"github.com/ninjasphere/go-ninja/devices"
-	"github.com/ninjasphere/go-ninja/model"
+	"github.com/nps5696/go-ninja/api"
+	"github.com/nps5696/go-ninja/channels"
+	"github.com/nps5696/go-ninja/devices"
+	"github.com/nps5696/go-ninja/model"
 )
 
 type fakeMediaPlayer struct {

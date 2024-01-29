@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ninjasphere/go-ninja/rpc"
+	"github.com/nps5696/go-ninja/rpc"
 )
 
 // ----------------------------------------------------------------------------

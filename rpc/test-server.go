@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git"
-	"github.com/ninjasphere/go-ninja"
-	"github.com/ninjasphere/go-ninja/rpc3"
-	"github.com/ninjasphere/go-ninja/rpc3/json2"
+	"github.com/nps5696/go-ninja"
+	"github.com/nps5696/go-ninja/rpc3"
+	"github.com/nps5696/go-ninja/rpc3/json2"
 )
 
 type TestService struct {

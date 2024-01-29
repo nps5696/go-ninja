@@ -1,7 +1,7 @@
 package support
 
 import (
-	"github.com/ninjasphere/go-ninja/api"
+	"github.com/nps5696/go-ninja/api"
 )
 
 //
@@ -38,7 +38,7 @@ import (
 //		return driver
 // 	}
 //
-// For another example of how to use this type, refer to the FakeDriver module of the github.com/ninjasphere/go-ninja/fakedriver package.
+// For another example of how to use this type, refer to the FakeDriver module of the github.com/nps5696/go-ninja/fakedriver package.
 //
 type DriverSupport struct {
 	ModuleSupport

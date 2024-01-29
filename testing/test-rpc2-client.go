@@ -10,8 +10,8 @@ import (
 
 	"git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ninjasphere/go-ninja"
-	"github.com/ninjasphere/go-ninja/rpc2"
+	"github.com/nps5696/go-ninja"
+	"github.com/nps5696/go-ninja/rpc2"
 )
 
 // mosquitto_pub -m '{"id":123, "params": ["Elliot"],"jsonrpc": "2.0","method":"sayHello","time":132123123}' -t 'rpc/test'

@@ -1,7 +1,7 @@
 package support
 
 import (
-	"github.com/ninjasphere/go-ninja/api"
+	"github.com/nps5696/go-ninja/api"
 )
 
 //

@@ -5,9 +5,9 @@ import (
 
 	"github.com/juju/loggo"
 
-	"github.com/ninjasphere/go-ninja/api"
-	"github.com/ninjasphere/go-ninja/logger"
-	"github.com/ninjasphere/go-ninja/model"
+	"github.com/nps5696/go-ninja/api"
+	"github.com/nps5696/go-ninja/logger"
+	"github.com/nps5696/go-ninja/model"
 )
 
 // ModuleSupport is contains implementations of methods that are common to all modules whether they

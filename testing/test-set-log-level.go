@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/ninjasphere/go-ninja/support"
+	"github.com/nps5696/go-ninja/support"
 )
 
 type fixture struct {

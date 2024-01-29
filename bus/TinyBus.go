@@ -7,7 +7,7 @@ import (
 	"time"
 
 	proto "github.com/huin/mqtt"
-	"github.com/ninjasphere/go-ninja/config"
+	"github.com/nps5696/go-ninja/config"
 	"github.com/ninjasphere/mqtt"
 )
 

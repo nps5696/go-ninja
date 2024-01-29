@@ -12,8 +12,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ninjasphere/go-ninja/bus"
-	"github.com/ninjasphere/go-ninja/schemas"
+	"github.com/nps5696/go-ninja/bus"
+	"github.com/nps5696/go-ninja/schemas"
 	"github.com/ninjasphere/redigo/redis"
 )
 
